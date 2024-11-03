@@ -39,8 +39,6 @@
 
 - **React Native**
   - for cross-platform flexibility.
-- **CI/CD pipelines**
-  - to improve deployment and delivery.
 
 ---
 
