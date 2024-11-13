@@ -42,11 +42,5 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghon4&show_icons=true&locale=en&layout=compact" alt="ghon4" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghon4&" alt="ghon4" /></p>
-
----
-
 <h3 align="left">⚡ Fun Fact</h3>
 - When I’m not coding, you’ll find me on a soccer field or exploring new tech gadgets.
