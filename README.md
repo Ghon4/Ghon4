@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ghoniem</h1>
 
 <p align="center">
-  <a href="https://ghoniem.framer.website/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Senior+Mobile+Developer;Flutter+Expert+%7C+5%2B+Years+Experience;Cross-Platform+Specialist;Clean+Architecture+Advocate;Building+High-Performance+Mobile+Apps" alt="Typing SVG" /></a>
+  <a href="https://ghoniem.framer.website/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Senior+Mobile+Developer;Flutter+Expert+%7C+6%2B+Years+Experience;Cross-Platform+Specialist;Clean+Architecture+Advocate;Building+High-Performance+Mobile+Apps" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,15 +16,29 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate mobile developer with **5+ years of experience** specializing in high-performance, user-centric mobile applications. Currently working at **SWISS DIGITAL HOCKEY AG**, I bring deep expertise in **Flutter** and cross-platform development to deliver clean, scalable architectures and optimized solutions across diverse industries including **fintech, sports, e-commerce, education**, and **agriculture**.
+Results-driven Senior Mobile Developer with **6+ years of experience** building high-performance, user-centric mobile applications. Currently contributing as a **Senior Flutter Developer at AL Rajhi Takaful** (via NTG), working on a large-scale insurance platform serving a wide customer base across iOS and Android. I bring deep expertise in **Flutter** and cross-platform development to deliver clean, scalable architectures and optimized solutions across diverse industries including **fintech, insurance, sports, e-commerce, education**, and **agriculture**.
 
-- 🔭 Currently building production-grade apps serving thousands of users across **iOS & Android**
+- 🔭 Currently working on **AL Rajhi Takaful's** flagship insurance mobile app
 - 🏗️ Strong advocate for **Clean Architecture**, **BLOC pattern**, and **modular codebases**
 - 🚀 Experienced with **CI/CD pipelines** (CodeMagic, GitHub Actions, Fastlane)
+- 👥 Proven experience **leading teams**, **mentoring engineers**, and **conducting code reviews**
 - 🌍 Delivered apps for clients in **Switzerland, Saudi Arabia, Egypt**, and **Jordan**
-- 🎯 Currently expanding into **React Native** for broader cross-platform flexibility
+- 🎓 B.Sc. in Computer Science | **Android Developer Nanodegree** (Udacity)
 - 📫 Reach me at **mohamed.maher.ghoniem@gmail.com**
 - 🌐 Explore my work at **[ghoniem.framer.website](https://ghoniem.framer.website/)**
+
+---
+
+### 💼 Professional Journey
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 - Present | Senior Mobile Engineer (Flutter) | **NTG** (Client: AL Rajhi Takaful) |
+| 2023 - 2025 | Senior Mobile Engineer (Flutter) | **Mozare3** |
+| 2023 | Senior Mobile Engineer (Flutter) | **MakanE** |
+| 2021 - 2023 | Software Engineer (Flutter) | **Openner.vc** |
+| 2020 - 2021 | Software Engineer (Android, Flutter) | **Watanya Company for Roads** |
+| 2019 - 2020 | Software Engineer (Android, Flutter) | **Dexef ERP System** |
 
 ---
 
@@ -54,8 +68,16 @@ I'm a passionate mobile developer with **5+ years of experience** specializing i
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Testing**
+
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-02569B?style=for-the-badge&logoColor=white)
+![Widget Testing](https://img.shields.io/badge/Widget_Testing-02569B?style=for-the-badge&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-02569B?style=for-the-badge&logoColor=white)
 
 **Tools & Workflow**
 
