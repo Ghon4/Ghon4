@@ -102,6 +102,8 @@ Results-driven Senior Mobile Developer with **6+ years of experience** building 
 #### 🏦 Al Rajhi Takaful
 **Insurance & Digital Services Platform**
 
+![Downloads](https://img.shields.io/badge/500K+_Downloads-28a745?style=flat-square) ![Rating](https://img.shields.io/badge/4.4★_App_Store_(3.4K)-0D96F6?style=flat-square) ![Rating](https://img.shields.io/badge/4.2★_Google_Play_(17K+)-414141?style=flat-square)
+
 A comprehensive digital insurance platform enabling customers to manage policies, submit and track claims, and access financial products seamlessly. Built with clean architecture for a large-scale user base.
 
 **Tech:** Flutter, BLOC, RESTful APIs, Clean Architecture
@@ -115,6 +117,8 @@ A comprehensive digital insurance platform enabling customers to manage policies
 
 #### 🏒 Digital Hockey
 **Sports Fan Companion App**
+
+![Impact](https://img.shields.io/badge/Official_HC_Ambrì_Piotta_App-28a745?style=flat-square) ![Impact](https://img.shields.io/badge/Live_Streaming_&_Monetized_Platform-0D96F6?style=flat-square)
 
 The ultimate companion app for hockey enthusiasts with real-time chat, live match updates, in-app purchases via RevenueCat, custom animations, and location-based features.
 
@@ -132,6 +136,8 @@ The ultimate companion app for hockey enthusiasts with real-time chat, live matc
 #### 🏒 HCAP
 **Hockey Club App Platform**
 
+![Rating](https://img.shields.io/badge/5.0★_App_Store-0D96F6?style=flat-square) ![Impact](https://img.shields.io/badge/Fan_Engagement_&_Subscription_Platform-28a745?style=flat-square)
+
 A comprehensive hockey team companion app featuring real-time chat, live match tracking, payment gateway integration, and premium subscription features via RevenueCat.
 
 **Tech:** Flutter, BLOC, Socket.io, RevenueCat, Sentry, Dio
@@ -144,6 +150,8 @@ A comprehensive hockey team companion app featuring real-time chat, live match t
 
 #### ⚽ InGame Sports
 **Gamified Football Platform**
+
+![Downloads](https://img.shields.io/badge/100K+_Downloads-28a745?style=flat-square) ![Rating](https://img.shields.io/badge/4.1★_Google_Play_(749_reviews)-414141?style=flat-square)
 
 A gamified platform for football fans with innovative gameplay mechanics and user-friendly design. Led the development team during production, integrating both GraphQL and REST APIs.
 
@@ -161,6 +169,8 @@ A gamified platform for football fans with innovative gameplay mechanics and use
 #### 🍽️ Qoodz
 **Restaurant Discounts Platform**
 
+![Rating](https://img.shields.io/badge/4.4★_App_Store-0D96F6?style=flat-square) ![Impact](https://img.shields.io/badge/QR--Based_Restaurant_Network_across_UAE-28a745?style=flat-square)
+
 Connects users to restaurants and cafes with exclusive QR-based discounts. Features revamped UI/UX, Firebase integration, and seamless payment processing.
 
 **Tech:** Flutter, BLOC, Firebase, Payment Gateway, Sentry
@@ -173,6 +183,8 @@ Connects users to restaurants and cafes with exclusive QR-based discounts. Featu
 
 #### 📋 Qoodz Manager
 **Partner Redemption App**
+
+![Impact](https://img.shields.io/badge/B2B_Promo_Redemption_for_Partner_Network-28a745?style=flat-square)
 
 Companion app for restaurant partners enabling seamless promo code redemption and customer offer management with real-time Firebase synchronization.
 
@@ -189,6 +201,8 @@ Companion app for restaurant partners enabling seamless promo code redemption an
 #### 🏫 JKS Portal
 **School Communication Platform**
 
+![Rating](https://img.shields.io/badge/5.0★_Google_Play-414141?style=flat-square) ![Impact](https://img.shields.io/badge/Serving_JKS_International_School_Community-28a745?style=flat-square)
+
 Comprehensive portal for Jeddah Knowledge International School connecting students, parents, and staff for seamless communication and access to school services.
 
 **Tech:** Flutter, Clean Architecture
@@ -202,6 +216,8 @@ Comprehensive portal for Jeddah Knowledge International School connecting studen
 
 #### 🌾 Farmer App
 **Agricultural Services Platform**
+
+![Downloads](https://img.shields.io/badge/10K+_Downloads-28a745?style=flat-square) ![Impact](https://img.shields.io/badge/Agri--Fintech_Platform_Across_Egypt-0D96F6?style=flat-square)
 
 A contract farming system offering financial assistance, materials provision, and agricultural extension services with electronic account statements for financial tracking.
 
@@ -218,6 +234,8 @@ A contract farming system offering financial assistance, materials provision, an
 #### 🛍️ Mahallat Jo
 **Deals & Savings App**
 
+![Impact](https://img.shields.io/badge/Merchant_Deals_Network_Across_Jordan-28a745?style=flat-square)
+
 A platform offering benefits, deals, and savings through a diverse merchant network. Features include search functionality, notifications, and merchant category management.
 
 **Tech:** Flutter, BLOC, Firebase
@@ -230,6 +248,8 @@ A platform offering benefits, deals, and savings through a diverse merchant netw
 
 #### 💳 Dexef Bills
 **Cloud-Based POS System**
+
+![Rating](https://img.shields.io/badge/4.3★_Google_Play-414141?style=flat-square) ![Impact](https://img.shields.io/badge/Cloud_POS_for_Business_Operations-28a745?style=flat-square)
 
 Cloud-based point-of-sale application simplifying inventory and transaction management with real-time data on sales, employee, and customer management.
 
