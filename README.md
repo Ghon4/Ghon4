@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-Results-driven Senior Mobile Developer with **6+ years of experience** building high-performance, user-centric mobile applications. Currently contributing as a **Senior Flutter Developer at AL Rajhi Takaful** (via NTG), working on a large-scale insurance platform serving a wide customer base across iOS and Android. I bring deep expertise in **Flutter** and cross-platform development to deliver clean, scalable architectures and optimized solutions across diverse industries including **fintech, insurance, sports, e-commerce, education**, and **agriculture**.
+Results-driven Senior Mobile Developer with **6+ years of experience** building high-performance, user-centric mobile applications. Currently contributing as a **Senior Flutter Developer at AL Rajhi Takaful** , working on a large-scale insurance platform serving a wide customer base across iOS and Android. I bring deep expertise in **Flutter** and cross-platform development to deliver clean, scalable architectures and optimized solutions across diverse industries including **fintech, insurance, sports, e-commerce, education**, and **agriculture**.
 
 - 🔭 Currently working on **AL Rajhi Takaful's** flagship insurance mobile app
 - 🏗️ Strong advocate for **Clean Architecture**, **BLOC pattern**, and **modular codebases**
